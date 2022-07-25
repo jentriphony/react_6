@@ -1,0 +1,9 @@
+import { createContext } from 'react'
+
+
+
+const addStatus = createContext(false)
+
+
+
+export default cartStatus
